@@ -78,7 +78,7 @@ const styles = StyleSheet.create({
 		borderRadius:20,
 		width:'35%',
 	    marginLeft:'100px',
-		margin:'15px'
+		margin:'15	px'
 	},
 	
 		textoBotao:{

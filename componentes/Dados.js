@@ -9,7 +9,7 @@ export default function Dados(props) {
 		Nome: {props.nome}
    </Text>
 	 <Text style={styles.text}>
-		Idade: {props.idade != "" ? 2022 - props.idade : ""}
+		Data de Nascimento: {props.idade != "" ? 2022 - props.idade : ""}
    </Text>
 
  </View>
